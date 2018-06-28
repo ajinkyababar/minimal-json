@@ -1,4 +1,4 @@
-minimal-json
+minimal-json -  by ajinkya
 =============
 
 [![License](https://img.shields.io/github/license/ralfstx/minimal-json.svg)](https://github.com/ralfstx/minimal-json/blob/master/LICENSE)
